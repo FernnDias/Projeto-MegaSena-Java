@@ -43,4 +43,5 @@ A conexão no código (`Sorteio.java`) está configurada para o padrão do XAMPP
 ## 📂 Estrutura de Arquivos
 
 * `src/`: Contém o código-fonte Java.
+* `nbproject/`: Configurações do projeto para abertura direta no **NetBeans**.
 * `bancoprojetomegasena.sql`: Script para restaurar as tabelas e dados de exemplo.
