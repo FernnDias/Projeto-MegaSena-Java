@@ -14,15 +14,11 @@ Este é um **projeto simples** desenvolvido em **Java Desktop (Swing)** com o ob
 * **Ranking de Dezenas:** Um algoritmo simples que calcula e exibe quais números foram mais sorteados na base de dados.
 * **Feedback Visual:** Uso de labels para informar o status das operações ao usuário.
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Java.
 * **Banco de Dados:** MySQL  (via XAMPP).
 * **Conectividade:** JDBC (Java Database Connectivity).
-
----
 
 ## 📋 Instalação e Configuração
 
@@ -37,8 +33,6 @@ A conexão no código (`Sorteio.java`) está configurada para o padrão do XAMPP
 * **URL:** `jdbc:mysql://localhost:3306/bancoprojetomegasena`
 * **Usuário:** `root`
 * **Senha:** (vazio)
-
----
 
 ## 📂 Estrutura de Arquivos
 
